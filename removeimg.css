@@ -2,7 +2,9 @@
 .chat-signup-gate__overlay-modal {
     display:  none !important;
 }
-
+.Layout-sc-1xcs6mc-0.MfVwI.chat-signup-gate__background-gradient{
+    display: none;
+}
 .chat-signup-gate-overlay{
     z-index: 0 !important;
     height: 0% !important;
